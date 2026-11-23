@@ -1,18 +1,16 @@
 # Discord-welcome-bot
 
-current making a discord bot that has multi functionality
+A personal Discord bot project built with Python using `discord.py`.
 
-# expected functionalities/commands
+### Planned Features
+- Bad-word filtering
+- User greetings
+- Ban and mute commands
+- Automatic channel setup (text and voice)
+- Mini-games
 
-* filtering badwords
-* greet user
-* ban user
-* mute user
-* auto set up channel(messages & voice channels)
-* mini games
+### Project Status
+🚧 Currently in development.
 
-## status
-> on going pa
-
-## personal note
-this projects is just my side project to enhance and understand of how to make a discord bot using python.
+### About
+This is a personal side project created to improve my Python programming skills and learn more about Discord bot development.
