@@ -1,11 +1,13 @@
 import discord
 from discord.ext import commands
 
+admin_role = "admin"
 
 class Admin(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
+
 
     @commands.command()
     @commands.has_permissions(administrator=True)
