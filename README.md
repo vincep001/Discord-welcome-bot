@@ -1,2 +1,3 @@
 # Discord-welcome-bot
-a discord bot that automatically greets a new user coming in the discord server
+
+A Discord bot that automatically greets new users when they join your server.
